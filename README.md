@@ -16,10 +16,7 @@
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CHANDU3094&theme=radical&no-frame=true&no-bg=true&margin-w=4)
----
+
 [![](https://visitcount.itsvg.in/api?id=CHANDU3094&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**CHANDU3094/CHANDU3094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**CHANDU3094/CHANDU3094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
